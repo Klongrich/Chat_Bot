@@ -20,9 +20,6 @@ class GUI:
         self.my_message.place(x=15, y=345)
         print(input)
 
-
-
-
 root = Tk()
 root.title("ChatBot")
 root.configure(background="green")
