@@ -3,6 +3,7 @@ from chatterbot import ChatBot
 
 '''
 Type "pip install chatterbot" into your termainl before running this. 
+You can check out how it's traning it at "https://github.com/gunthercox/ChatterBot"
 
 '''
 # creating the bot
